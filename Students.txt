@@ -13,7 +13,7 @@ Gargate Collantes Luis Amir
 Gomero Castillo Anyelo Alexander
 Illanes Garcia Sebastian Alejandro
 Lescano Trujillo Francisco Javier
-Mamani Vilca Margaret Jhaty 
+Mamani Vilca Margaret Jhaty
 Marin Quispe Joel Gabriel
 Matias Muñoz, Jose Carlos
 Medina Canduelas Jose Javier
@@ -23,7 +23,7 @@ Nicolas Ramos de la Cruz <nicolasramosdelacruz@gmail.com>
 Odar Arevalo Anderson Steven
 Santoyo Zuñiga Sandro Aldair 
 Torre Palomino Ricardo Sebastian
-Torres Perez Andy Gabriel
+Torres Perez Andy Gabriel <andytorresgp@gmail.com>
 Valderrama Paredes Marcelo
 Vegas Villalva Anthonella Fernanda
 Velasquez Mamani Elvis Rodrigo 
