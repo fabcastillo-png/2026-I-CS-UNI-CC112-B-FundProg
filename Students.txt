@@ -27,4 +27,4 @@ Torres Perez Andy Gabriel
 Valderrama Paredes Marcelo
 Vegas Villalva Anthonella Fernanda
 Velasquez Mamani Elvis Rodrigo 
-Velasquez Warthon Pedro Joaquín 
+Velasquez Warthon Pedro Joaquín <pedro.velasquez.w@uni.edu.pe>
