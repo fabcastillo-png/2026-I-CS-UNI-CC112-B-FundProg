@@ -21,7 +21,7 @@ Medina Rumaldo Santiago Alberto
 Muguerza Infante Fabritzzio Anderson 
 Nicolas Ramos de la Cruz
 Odar Arevalo Anderson Steven
-Santoyo Zuñiga Sandro Aldair 
+Santoyo Zuñiga Sandro Aldair <sandro.santoyo.z@uni.pe>
 Torre Palomino Ricardo Sebastian
 Torres Perez Andy Gabriel
 Valderrama Paredes Marcelo
