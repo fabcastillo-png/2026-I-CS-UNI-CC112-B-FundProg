@@ -10,7 +10,7 @@ De la Cruz Acuña Polet
 Espinal Pecho Dire Daniel
 Gallardo Nuñez Gian Pierre
 Gargate Collantes Luis Amir
-Gomero Castillo Anyelo Alexander
+Gomero Castillo Anyelo Alexander <anyelo.gomero.c@uni.pe>
 Illanes Garcia Sebastian Alejandro
 Lescano Trujillo Francisco Javier
 Mamani Vilca Margaret Jhaty 
