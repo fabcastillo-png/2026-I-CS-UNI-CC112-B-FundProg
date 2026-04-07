@@ -6,19 +6,19 @@ using namespace std;
 //    No usar en produccion
 //    Tiene demasiados cálculos repetidos
 //    fib(n) = fib(n-1) + fib(n-2)
-UTT1 fib_rec(UT1 n){
+TT1 fib_rec(T1 n){
     if (n <= 1)
         return n;
     return fib_rec(n - 1) + fib_rec(n - 2);
 }
 
 // B: Iteratividad O(n)
-UTT1 fib_iter(UT1 n){
+TT1 fib_iter(T1 n){
     if (n <= 1)
         return n;
-    UTT1 a = 0;
-    UTT1 b = 1;
-    UTT1 c;
+    TT1 a = 0;
+    TT1 b = 1;
+    TT1 c;
     for (T1 i = 2; i <= n; i++){
         c = a + b;
         a = b;
@@ -30,18 +30,18 @@ UTT1 fib_iter(UT1 n){
 // Factorial recursivo
 // n! = n * (n-1)!
 // 0! = 1
-UTT1 fact_rec(UT1 n){
+TT1 fact_rec(T1 n){
     if (n <= 1)
         return 1;
     return n * fact_rec(n - 1);
 }
 
 // Factorial iterativo
-UTT1 fact_iter(UT1 n){
+TT1 fact_iter(T1 n){
     if (n <= 1)
         return 1;
-    UTT1 rpta = 1;
-    for (UT1 i = 2; i <= n; i++)
+    TT1 rpta = 1;
+    for (T1 i = 2; i <= n; i++)
         rpta *= i;
     return rpta;
 }
