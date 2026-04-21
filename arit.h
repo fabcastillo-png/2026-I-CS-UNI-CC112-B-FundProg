@@ -1,6 +1,7 @@
 #ifndef __ARIT_H__
 #define __ARIT_H__
 
+#include <cstddef>
 #include "types.h"
 
 // En el .h solo prototipos
